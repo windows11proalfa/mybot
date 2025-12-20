@@ -23,12 +23,7 @@ CURRENT_TIME=$(date +"%Y-%m-%d %H:%M:%S")
 
 # Proses Git
 git add .
-# Cek apakah ada perubahan yang perlu di-commit
-if git diff-index --quiet HEAD --; then
-    # Jika tidak ada perubahan, tidak perlu push, tapi kirim notif (opsional)
-    # Kalau gamau spam notif saat ga ada update, hapus bagian curl di bawah ini
-    exit 0
-fi
+git push --set-upstream origin master
 
 git commit -m "Auto push: $CURRENT_TIME (WIB)"
 
