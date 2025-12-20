@@ -1,8 +1,9 @@
 {
   "hit": {
-    "totalcmd": 1,
-    "todaycmd": 1,
-    "menu": 1
+    "totalcmd": 3,
+    "todaycmd": 3,
+    "menu": 1,
+    "s": 2
   },
   "set": {
     "62881010211888@s.whatsapp.net": {
@@ -61,6 +62,66 @@
       "lastclaim": 1766244771792,
       "lastbegal": 1766244771792,
       "lastrampok": 1766244771792
+    },
+    "6281211506859@s.whatsapp.net": {
+      "vip": false,
+      "ban": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "register": false,
+      "limit": 20,
+      "money": 10000,
+      "lastclaim": 1766245781101,
+      "lastbegal": 1766245781101,
+      "lastrampok": 1766245781101
+    },
+    "6287775717044@s.whatsapp.net": {
+      "vip": false,
+      "ban": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "register": false,
+      "limit": 20,
+      "money": 10000,
+      "lastclaim": 1766245793854,
+      "lastbegal": 1766245793854,
+      "lastrampok": 1766245793854
+    },
+    "6287715768324@s.whatsapp.net": {
+      "vip": false,
+      "ban": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "register": false,
+      "limit": 20,
+      "money": 10000,
+      "lastclaim": 1766245829427,
+      "lastbegal": 1766245829427,
+      "lastrampok": 1766245829427
+    },
+    "6283876037725@s.whatsapp.net": {
+      "vip": false,
+      "ban": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "register": false,
+      "limit": 20,
+      "money": 10000,
+      "lastclaim": 1766246166199,
+      "lastbegal": 1766246166199,
+      "lastrampok": 1766246166199
+    },
+    "6283128404482@s.whatsapp.net": {
+      "vip": false,
+      "ban": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "register": false,
+      "limit": 20,
+      "money": 10000,
+      "lastclaim": 1766249479610,
+      "lastbegal": 1766249479610,
+      "lastrampok": 1766249479610
     }
   },
   "game": {
@@ -87,7 +148,28 @@
     "tebakgambar": {},
     "tebakbendera": {}
   },
-  "groups": {},
+  "groups": {
+    "120363419852291753@g.us": {
+      "url": "",
+      "text": {},
+      "warn": {},
+      "tagsw": {},
+      "nsfw": false,
+      "mute": false,
+      "leave": false,
+      "setinfo": false,
+      "antilink": false,
+      "demote": false,
+      "antitoxic": false,
+      "promote": false,
+      "welcome": false,
+      "antivirtex": false,
+      "antitagsw": false,
+      "antidelete": false,
+      "antihidetag": false,
+      "waktusholat": false
+    }
+  },
   "database": {},
   "premium": [],
   "sewa": [],
